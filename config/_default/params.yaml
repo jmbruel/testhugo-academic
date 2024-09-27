@@ -4,9 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+# mode: light, dark, or system.
+# color: include blue, cyan, green, indigo, purple, red, rose, sky, teal, and zinc.
 appearance:
   mode: system
-  color: emerald
+  color: sky
 
 # SEO
 marketing:
@@ -14,8 +16,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: 'jmbruel'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -34,13 +36,15 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    show_translations: true
+    hide_language_name: true
     logo:
-      text: "Your Name"
+      text: "Jean-Michel Bruel"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} ACDC. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -58,3 +62,10 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  repository:
+    url: 'https://github.com/jmbruel/netlify'
+    content_dir: content
+    branch: main
+
+# Personalization
+editable: true

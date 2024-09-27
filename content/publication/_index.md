@@ -1,6 +1,6 @@
 ---
-title: Publications
-cms_exclude: true
+title: Collections
+#cms_exclude: true
 
 # View.
 view: citation
