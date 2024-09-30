@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FUN | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/fun/</link>
+      <atom:link href="http://localhost:1313/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+    <description>FUN</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>FUN</title>
+      <link>http://localhost:1313/tags/fun/</link>
+    </image>
+    
+    <item>
+      <title>Pandas</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
+      <link>http://localhost:1313/event/20201021-modelsdemo/</link>
+      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/20201021-modelsdemo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated user-oriented description of emerging composite ambient applications</title>
+      <link>http://localhost:1313/publication/ko-2019-2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ko-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maroun Koussaifi</title>
+      <link></link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamna Aslam</title>
+      <link></link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

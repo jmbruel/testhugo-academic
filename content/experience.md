@@ -25,10 +25,10 @@ sections:
   #     username: jmb
   #   design:
   #     show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Fun facts
-      username: jmb
+  # - block: resume-awards
+  #   content:
+  #     title: Fun facts
+  #     username: jmb
   - block: resume-languages
     content:
       title: Languages

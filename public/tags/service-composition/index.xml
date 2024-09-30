@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Composition | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/service-composition/</link>
+      <atom:link href="http://localhost:1313/tags/service-composition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Service Composition</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Service Composition</title>
+      <link>http://localhost:1313/tags/service-composition/</link>
+    </image>
+    
+    <item>
+      <title>Automated user-oriented description of emerging composite ambient applications</title>
+      <link>http://localhost:1313/publication/ko-2019-2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ko-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Composite Services in Smart Environments</title>
+      <link>http://localhost:1313/publication/esof-poster2018/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/esof-poster2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
+      <link>http://localhost:1313/publication/mse18/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mse18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

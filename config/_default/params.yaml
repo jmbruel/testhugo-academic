@@ -6,9 +6,14 @@
 # Appearance
 # mode: light, dark, or system.
 # color: include blue, cyan, green, indigo, purple, red, rose, sky, teal, and zinc.
+# appearance:
+#   mode: system
+#   color: sky
 appearance:
-  mode: system
-  color: sky
+  theme_day: jmb
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 marketing:

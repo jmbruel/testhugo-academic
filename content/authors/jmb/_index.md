@@ -3,8 +3,8 @@
 title: Jean-Michel Bruel
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Username (this should match the folder name)
 authors:
@@ -104,7 +104,7 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
-    icon: ironman
+    # icon: ironman
     summary: |
       I am very proud of being an "ironman finisher" at Roth 2007 (3.8/180/42) in 11h57': <div class="row"><div class="col-sm-4">{{< figure src="CRSE0431.jpg" width="200" title="[Swim 3.8km in 1:08]">}}</div><div class="col-sm-4">{{< figure src="img/CRBO0125.jpg" width="200" title="[Bike 180km in 5:32]">}}</div><div class="col-sm-4">{{< figure src="img/CRRP0230.jpg" width="200" title="[Run   42km in 5:08]">}}</div></div>
 

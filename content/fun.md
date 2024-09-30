@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Fun facts
-      text: ''
+      text: Here are some fun facts about me...
       filters:
         folders:
           - fun
@@ -21,4 +21,3 @@ sections:
       fill_image: false
       columns: 3
 ---
-
